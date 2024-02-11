@@ -1,0 +1,8 @@
+#
+# Libraries_Config.cmake - CMake configuration file for external projects.
+#
+# This file is configured by CMake and used to load libraries for the main build.
+
+SET( LIBRARIES_FOUND TRUE )
+
+SET( FLTK_INSTALL_DIR "@FLTK_INSTALL_DIR@" )
